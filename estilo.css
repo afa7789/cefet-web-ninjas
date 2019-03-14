@@ -1,0 +1,51 @@
+p{
+	font-style:oblique;
+}
+
+h1,h2{
+	font-family: sans-serif;
+}
+
+#logo{
+	width:200px;
+}
+
+img.resize{
+  max-width:30%;
+  max-height:30%;
+}
+
+img.border{
+	border-radius: 41px;
+	border: solid black 3px;
+}
+
+img,iframe{
+	display:block;
+	margin: 0 auto;
+}
+
+a:hover{
+	color: white;
+	background-color: red;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+}
+
+strong{
+	background-color: pink;
+	font-size: 20px;
+}
+
+div.nota{
+	opacity:0.5;
+}
+
+.globo{
+  background-image: url(img/globo.png);
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
